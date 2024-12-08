@@ -6,15 +6,15 @@ export const SliderData = [
     link: "https://twitter.com/cnftbazaar",
   },
   {
-    image: "/grave_vanillicous.png",
+    image: "/grave_bazaar.png",
     id: 2,
-    alt: "MissVanilicious",
-    link: "https://twitter.com/MissVanilicious",
+    alt: "Cnftbazaar",
+    link: "https://twitter.com/cnftbazaar",
   },
   {
-    image: "/grave_mart.png",
+    image: "/grave_bazaar.png",
     id: 3,
-    alt: "Cnftmart",
-    link: "https://twitter.com/cnftmart",
+    alt: "Cnftbazaar",
+    link: "https://twitter.com/cnftbazaar",
   },
 ];
